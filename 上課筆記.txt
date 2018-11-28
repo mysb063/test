@@ -15,3 +15,8 @@ SVN的版本控制會將所有東西都放自Remote
 GitHub主要是做文字比對,圖片比對比較差
 
 Fetch跟Pull的差別
+
+GitFlow VS GitHubFlow
+GitFlow會分比較多支,比較不會照成主幹線被破壞,但比較繁複
+GitHub會比較單一線,但因為最後都會回歸主幹線,所以如果被破壞就會很麻煩
+
