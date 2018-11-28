@@ -1,0 +1,17 @@
+SourceTree是快速控管GitHub的工具
+
+Git與GitBhub的差別
+Git只是一個工具一個協定
+GitHub是能夠存放Git專案的一個平台
+
+commit -->確認變更(只限於Local的資料夾,要在puch到Remote)
+SVN的版本控制會將所有東西都放自Remote
+
+什麼是Branch?
+可以將不同開發者丟到不同分枝,讓不同操作者編寫不同程式碼,不會相互衝突
+
+盡量分多次commit,才可以更加有邏輯的找到需要用的程式碼
+
+GitHub主要是做文字比對,圖片比對比較差
+
+Fetch跟Pull的差別
